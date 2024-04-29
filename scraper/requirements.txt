@@ -1,0 +1,10 @@
+bcrypt
+beautifulsoup4
+fake-useragent
+Faker
+jupyterlab
+numpy
+pandas
+passlib[bcrypt]
+requests
+SQLAlchemy

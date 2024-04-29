@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+}
+
+input:autofill {
+    background: #fff;
+}
+
+.boxart {
+    height: 512px;
+    min-width: 354px;
+    width: 100%;
+}
