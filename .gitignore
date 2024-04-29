@@ -1,13 +1,19 @@
 # bockbluster
 images/
-
 scraper/data/
 scraper/images/
 scraper/notebook/
 scraper/page/
-
 script/
 
+asset/dashboard.mp4
+asset/dashboard2.mp4
+asset/pagination.mp4
+asset/pagination2.mp4
+asset/renting.mp4
+asset/renting2.mp4
+asset/search.mp4
+asset/search2.mp4
 *.bat
 *.ini
 *.zip
