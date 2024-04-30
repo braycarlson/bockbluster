@@ -22,6 +22,6 @@ A demonstration of the "rental" page where the employee would ask for the custom
 
 ## Dashboard
 
-The employee can access the dashboard for managing the customer's information, current and historic rental information and updating the customer's information, if needed.
+The employee can access the dashboard for managing the customer's information, current and previous rental information and updating the customer's information, if needed.
 
 ![A .gif of demonstrating the dashboard feature](asset/dashboard.gif?raw=true "dashboard")
