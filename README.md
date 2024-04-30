@@ -4,16 +4,24 @@ This is a group project for CPSC 3660: Introduction to Database using HTML, CSS,
 
 ## Search
 
+You can search for a video game by name, whether typing a new name or backspacing a previous name, and the view will update in real-time to display the matching games.
+
 ![A .gif of demonstrating the search feature](asset/search.gif?raw=true "search")
 
 ## Pagination
+
+We use pagination to make the web page more managable in order for the employee to locate a video game. You can cycle forwards or backwards through the pages, and each page will load as you cycle.
 
 ![A .gif of demonstrating the pagination feature](asset/pagination.gif?raw=true "pagination")
 
 ## Renting
 
+A demonstration of the "rental" page where the employee would ask for the customer's name, and input the video game(s) that the user wants to rent. This also features a live search for both the customer's name and the video game(s).
+
 ![A .gif of demonstrating the renting feature](asset/renting.gif?raw=true "renting")
 
 ## Dashboard
+
+The employee can access the dashboard for managing the customer's information, current and historic rental information and updating the customer's information, if needed.
 
 ![A .gif of demonstrating the dashboard feature](asset/dashboard.gif?raw=true "dashboard")
